@@ -5,7 +5,7 @@ websocket服务端
 
 ### 前端页面地址
 
-[vue-mac-wechat](http://www.google.com/)
+[https://github.com/hary-hug/vue-mac-wechat](https://github.com/hary-hug/vue-mac-wechat)
 
 ### 安装
 
