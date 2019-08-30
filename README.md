@@ -14,5 +14,5 @@ git clone https://github.com/hary-hug/go-mac-wechat.git
 ~~~
 
  * 创建数据库，并导入data.sql
- * 修改cmd目录下的go-chat-main.sh的数据库连接
+ * 修改cmd目录下的app.toml的数据库连接
  * 执行go run main.go
