@@ -1,0 +1,17 @@
+[common]
+    jwtSecret = "E81vlldNEBKnRcTB"
+    jwtTimeout = 86400
+
+[httpServer]
+    mode = "debug" # debug or release
+    port = "8080"
+    readTimeout = 60
+    writeTimeout = 60
+
+[mysql]
+    [mysql.chat]
+    dns = "root:@tcp(127.0.0.1:3306)/go-chat?timeout=5s&readTimeout=5s&writeTimeout=5s&parseTime=true&loc=Local&charset=utf8,utf8mb4"
+    logMode = true
+    maxIdle = 10
+    maxOpen = 100
+    tablePrefix = ""
