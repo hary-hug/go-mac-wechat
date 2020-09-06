@@ -1,4 +1,4 @@
-仿mac微信golang服务端
+基于vue仿mac微信golang服务端
 ===============
 
 websocket服务端
